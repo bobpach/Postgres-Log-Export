@@ -1,21 +1,3 @@
----
-layout: post
-created_at: 2022-12-16T15:00:00Z
-published_at: 2022-12-16T15:00:00Z
-author: Bob Pacheco
-title: 'Log Export Examples Using Crunchy Postgres for Kubernetes'
-description:
-  'Using sidecars you can export Postgres logs a few different ways. Bob has
-  some examples for exports including sending errors to stderr, stdout, and S3.'
-image: 'https://imagedelivery.net/lPM0ntuwQfh8VQgJRu0mFg/e93a9e33-53fd-444b-4892-bbcb20aaee00/public'
-status: publish
-published: true
-meta:
-  _edit_last: '1'
-type: post
-tags: Kubernetes
----
-
 # Bring a Friend - Sidecar containers
 
 Many applications running on Kubernetes will send their output to standard error
